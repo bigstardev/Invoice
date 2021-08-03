@@ -1,0 +1,13 @@
+.leftPanel{
+    height: 93.4vh;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+  
+}
+.numberOfInvoices{
+    color: aliceblue;
+    margin:10px 20px 10px 20px;
+    font-size: 10px;
+  
+}

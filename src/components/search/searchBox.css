@@ -1,0 +1,33 @@
+.searchContainer{
+    display: flex;
+    justify-content: center;
+  margin:8px 8px;
+}
+.wrapper{
+   
+   position: relative;
+    width:100%;
+}
+.searchIcon{
+ 
+    position: absolute;
+    left: 15px;
+    top: 5px;
+}
+.searchIcon img{
+    width:20px;
+}
+.wrapper input{
+   
+    display: block;
+    border: 0px solid #302e2e;
+    font-size: 14px;
+    padding: 8px ;
+    width: 100%;
+    padding-left: 42px;
+    border-radius: 50px;
+    outline: none !important;
+    box-sizing: border-box;
+    background-color: #5a585877;
+   
+}

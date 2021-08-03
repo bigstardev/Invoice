@@ -1,0 +1,9 @@
+.header{
+    display: flex;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 10px 20px;
+    background-color: #416190;     
+    color:white; 
+    z-index:3;
+}

@@ -1,0 +1,14 @@
+.detailMenu{
+    border-color:rgb(167, 164, 164);
+    border-style:solid;
+    border-width:1px 0px 1px 0px;
+    font-size: 16px;
+    margin-top:10px !important;
+ 
+}
+.product{
+    border-color:rgb(219, 216, 216);
+    border-style:solid;
+    border-width:0px 0px 1px 0px;
+    font-size: 13px;
+}

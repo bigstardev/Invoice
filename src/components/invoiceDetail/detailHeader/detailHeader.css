@@ -1,0 +1,19 @@
+.header-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: small;
+}
+.printImage{
+    width:20px;
+    height: 20px;
+}
+.customerInfor{
+    margin-right:30px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.secondColumn{
+    display: flex;
+}

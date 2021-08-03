@@ -1,0 +1,29 @@
+.productDetailFooter{
+    
+    border-top:1px solid rgb(227, 227, 230)
+
+}
+.tax-discount{
+    justify-content: space-between;
+}
+.Tax{
+    width:100px;
+    margin-right:30px;
+    font-size: 18px;
+}
+.Discount{
+    width:100px;
+    margin-right:50px;
+    font-size: 18px;
+}
+.subTotal{
+    justify-content: space-between;
+}
+.total-price{
+    background-color: rgb(226, 226, 225);
+    justify-content: space-between;
+    
+}
+.save{
+    width:100px;
+}
